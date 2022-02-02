@@ -1,5 +1,4 @@
-#pinheirocfc@gmail.com
-#https://github.com/Wesley-Pinheiro
+#https://github.com/soumjovemdanet
 #instrucoes em: https://youtu.be/78NoGpfiPpk
 
 #bibliotecas necessarias, caso nao tenha instalada em sua maquina basta executar os comandos (pip instal....)
